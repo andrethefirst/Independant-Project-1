@@ -1,0 +1,28 @@
+img{
+  width: 400px;
+}
+
+h1{
+  color:blue;
+  text-align: center;
+}
+
+h2{
+  color:purple;
+  text-align:center;
+}
+
+h3{
+  color:red;
+  text-align:center;
+}
+h4{
+  color:red;
+  text-align:center;
+}
+p{
+  font-family: sansserif;
+}
+a{
+  color:purple;
+}
