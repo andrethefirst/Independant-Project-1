@@ -1,10 +1,14 @@
 img{
-  width: 400px;
+  width: 275px;
+  float: right;
+  padding-left:1cm;
+  border-start-end-radius:1cm;
 }
 
 h1{
   color:blue;
   text-align: center;
+  margin-bottom: 2cm;
 }
 
 h2{
@@ -26,3 +30,4 @@ p{
 a{
   color:purple;
 }
+
